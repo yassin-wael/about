@@ -1,0 +1,19 @@
+section .content p
+{
+	color: #fff;
+	font-size: 1.2em;
+
+}
+    section .content p
+    {
+    	font-size: 1em;
+}
+				<p>"Yassin Wael" an independent Egyptian music and soundtrack producer based in Alexandria, a high school student, known as "Yasso"
+
+At a young age, he has already involved in several projects in creating soundtracks and music production. he loved the songs especially songs with strong bass and kicks.
+
+so he decided to design his own music tracks. at the beginning it was difficult for him to learn the design of melody and music He sometimes spent late nights learning and creating them. Indeed, he completed one of his music.
+
+By the end of 2019 he Released his first-ever track ''DARKNESS - Instrumental Version'' on YouTube and all major platforms. Just for the hobby, followed by another track " Suicide - Instrumental Version" with different genre.
+
+He is interested in creating music tracks alongside his academic period. his main objective is to provide the best musical experience that everyone can hear on the major platforms and to promote his name to be known to people.</p>	
